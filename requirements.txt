@@ -5,3 +5,7 @@ Shayari
 
 Dark color
 Pencil
+
+payment Deal
+phonepay
+google pay
